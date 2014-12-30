@@ -1,0 +1,21 @@
+{
+  "name": "cristoJovenWeb",
+  "version": "0.0.0",
+  "keywords": [
+    "movimiento",
+    "cristo",
+    "joven",
+    "website"
+  ],
+  "authors": [
+    "Andrés-J. Cremades"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
